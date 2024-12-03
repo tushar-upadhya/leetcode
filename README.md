@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
