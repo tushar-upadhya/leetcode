@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tushar-upadhya/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tushar-upadhya/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tushar-upadhya/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
