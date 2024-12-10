@@ -1,41 +1,52 @@
 class Solution {
     public int myAtoi(String s) {
-        if (s.equals("")) {
-			return 0;
-		}
-		
-		// helper variables
-		int result = 0;
-        int i = 0;
-        int sign = 1;
-		
-		// get rid of whitespace
-		while (i < s.length() && s.charAt(i) == ' ') {
-			i++;
-		}
-		
-		// check for sign
-		if (i < s.length() && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-			// change if negative, iterate
-			if (s.charAt(i++) == '-') {
-				sign = -1;
-			}
-		}
-		
-		// now iterate across digits if any
-		// should only be in range 0-9
-		while (i < s.length() && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
-			// check if we will go over the max
-			if (result > Integer.MAX_VALUE / 10 || (result == Integer.MAX_VALUE / 10 && s.charAt(i) - '0' > 7)) {
-				if (sign == -1) {
-					return Integer.MIN_VALUE;
-				}
-				return Integer.MAX_VALUE;
-			}
-			
-			// update result
-			result = result * 10 + (s.charAt(i++) - '0');
-		}
-		return sign * result;
+        char characters[] = s.toCharArray();
+        Integer result = null;
+        boolean isPositive = true;
+        boolean wasPositive = true;
+        boolean isSignPossible = true;
+
+        for(int i = 0; i < characters.length; i++){
+            if(characters[i] == ' '){
+                if(result == null && isSignPossible){
+                    continue;
+                }else break;
+            }else if(characters[i] >= '0' && characters[i] <= '9'){
+                int newDigit = characters[i] - '0';
+                int oldValue = result == null ? 0 : result;
+
+                if(result == null){
+                    if(newDigit == 0){
+                        isSignPossible = false;
+                        continue;
+                    }
+                    result = isPositive ?  newDigit : - newDigit;
+                }else{
+                    result *= 10;
+                    result = isPositive ? result + newDigit : result - newDigit;
+                }
+                isSignPossible = false;
+
+                if(result / 10 != oldValue){
+                    return wasPositive ? Integer.MAX_VALUE :  Integer.MIN_VALUE;
+                }
+            }else if(characters[i] == '-'){
+                if(result == null && isSignPossible){
+                    isPositive = false;
+                    wasPositive = false;
+                    isSignPossible = false;
+                }else break;
+            }else if(characters[i] == '+' && isSignPossible){
+                if(result == null){
+                    isPositive = true;
+                    wasPositive = true;
+                    isSignPossible = false;
+                }else break;
+            }else break;
+        }
+        if(result == null){
+            result = 0;
+        }
+        return result;
     }
 }
