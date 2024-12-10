@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tushar-upadhya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/tushar-upadhya/leetcode/tree/master/0686-repeated-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tushar-upadhya/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tushar-upadhya/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/tushar-upadhya/leetcode/tree/master/0686-repeated-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tushar-upadhya/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Breadth-First Search
 |  |
