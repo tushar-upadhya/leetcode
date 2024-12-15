@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tushar-upadhya/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tushar-upadhya/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/tushar-upadhya/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tushar-upadhya/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/tushar-upadhya/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/2868-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
