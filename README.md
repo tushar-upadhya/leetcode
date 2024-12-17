@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Graph
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tushar-upadhya/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
