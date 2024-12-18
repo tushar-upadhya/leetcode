@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tushar-upadhya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tushar-upadhya/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tushar-upadhya/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tushar-upadhya/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tushar-upadhya/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/tushar-upadhya/leetcode/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tushar-upadhya/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |
