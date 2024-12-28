@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tushar-upadhya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tushar-upadhya/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/tushar-upadhya/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/tushar-upadhya/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Math
