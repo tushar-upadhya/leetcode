@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tushar-upadhya/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tushar-upadhya/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/tushar-upadhya/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tushar-upadhya/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/tushar-upadhya/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tushar-upadhya/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tushar-upadhya/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2685-first-completely-painted-row-or-column](https://github.com/tushar-upadhya/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tushar-upadhya/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tushar-upadhya/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
+| [2685-first-completely-painted-row-or-column](https://github.com/tushar-upadhya/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Design
 |  |
 | ------- |
