@@ -1,32 +1,32 @@
 class Solution {
     public int countServers(int[][] grid) {
-        int m=grid.length;
-        int n=grid[0].length;
-        int[] rowCnt=new int[m]; 
-        int[] colCnt=new int[n];
+        int m =grid.length;
+        int n = grid[0].length;
+        int rowCount[] = new int[m]; 
+        int colCount[] = new int[n];
+        int count = 0;
 
         // Count servers in each row and column
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j]==1){                   
-                    rowCnt[i]++;
-                    colCnt[j]++;                    
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 1){                   
+                    rowCount[i]++;
+                    colCount[j]++;                    
                 }
             }
         }
 
-        int cnt=0;
         // Count communicating servers
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j]==1){                   
-                    if(rowCnt[i]>1 || colCnt[j]>1){
-                        cnt++;
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 1){                   
+                    if(rowCount[i] > 1 || colCount[j] > 1){
+                        count++;
                     }                 
                 }
             }
         }
 
-        return cnt;
+        return count;
     }
 }
