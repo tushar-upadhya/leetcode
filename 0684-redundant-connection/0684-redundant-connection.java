@@ -36,3 +36,7 @@ class Solution {
         return false;
     }
 }
+
+
+// T.C : O(n^2)
+// S.C : O(n)
