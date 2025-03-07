@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0013-roman-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/tushar-upadhya/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/tushar-upadhya/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tushar-upadhya/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
@@ -484,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar-upadhya/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/tushar-upadhya/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
