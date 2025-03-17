@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/tushar-upadhya/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/tushar-upadhya/leetcode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tushar-upadhya/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tushar-upadhya/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/tushar-upadhya/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/tushar-upadhya/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tushar-upadhya/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tushar-upadhya/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/tushar-upadhya/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/tushar-upadhya/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/tushar-upadhya/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar-upadhya/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
