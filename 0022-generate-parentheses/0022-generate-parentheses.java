@@ -1,26 +1,27 @@
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        
-        if(n == 0){
-            return result;
-        }
-        helper(result, "", n, n);
-        
-        return result;
-    }
+    LinkedList<String> list;
+    int size = 0;
     
-    private void helper(List<String> result, String present, int left, int right){
-        if(right == 0){
-            result.add(present);
+    public List<String> generateParenthesis(int n) {
+        list = new LinkedList<>();
+        size = 2 * n;
+        helper(new char[size], 0, 0, 0);
+
+        return list;
+    }
+
+    private void helper(char arr[], int curr, int open, int close){
+        if(close > open) return;
+        if(curr == size){
+            String str = new String(arr);
+
+            if(open == close) list.add(str);
+            return;
         }
-        
-        if(left > 0){
-            helper(result, present + "(" , left - 1, right);
-        }
-        
-        if(right > left){
-            helper(result, present + ")" , left, right - 1);
-        }
+        arr[curr] = '(';
+        helper(arr, curr + 1, open + 1, close);
+
+        arr[curr]= ')';
+        helper(arr, curr + 1, open, close + 1);
     }
 }
