@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tushar-upadhya/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tushar-upadhya/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tushar-upadhya/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tushar-upadhya/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
