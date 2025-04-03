@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tushar-upadhya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/tushar-upadhya/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/tushar-upadhya/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/tushar-upadhya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tushar-upadhya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/tushar-upadhya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0013-roman-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tushar-upadhya/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
