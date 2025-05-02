@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/tushar-upadhya/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar-upadhya/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0868-push-dominoes](https://github.com/tushar-upadhya/leetcode/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tushar-upadhya/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tushar-upadhya/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tushar-upadhya/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tushar-upadhya/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/tushar-upadhya/leetcode/tree/master/0686-repeated-string-match) |
+| [0868-push-dominoes](https://github.com/tushar-upadhya/leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/tushar-upadhya/leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/tushar-upadhya/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/tushar-upadhya/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tushar-upadhya/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/tushar-upadhya/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/tushar-upadhya/leetcode/tree/master/1170-shortest-common-supersequence) |
