@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/tushar-upadhya/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tushar-upadhya/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/tushar-upadhya/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/tushar-upadhya/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/tushar-upadhya/leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tushar-upadhya/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tushar-upadhya/leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tushar-upadhya/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/tushar-upadhya/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tushar-upadhya/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/tushar-upadhya/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
