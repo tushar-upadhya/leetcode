@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tushar-upadhya/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/tushar-upadhya/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/tushar-upadhya/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tushar-upadhya/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/tushar-upadhya/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tushar-upadhya/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tushar-upadhya/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tushar-upadhya/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tushar-upadhya/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/tushar-upadhya/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tushar-upadhya/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tushar-upadhya/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tushar-upadhya/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tushar-upadhya/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tushar-upadhya/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/tushar-upadhya/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tushar-upadhya/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tushar-upadhya/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tushar-upadhya/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Design
 |  |
 | ------- |
@@ -670,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tushar-upadhya/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
