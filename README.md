@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tushar-upadhya/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tushar-upadhya/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/tushar-upadhya/leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/tushar-upadhya/leetcode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tushar-upadhya/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tushar-upadhya/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0045-jump-game-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tushar-upadhya/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tushar-upadhya/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
