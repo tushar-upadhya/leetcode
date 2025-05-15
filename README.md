@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/tushar-upadhya/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tushar-upadhya/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tushar-upadhya/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/tushar-upadhya/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/tushar-upadhya/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/tushar-upadhya/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tushar-upadhya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tushar-upadhya/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
