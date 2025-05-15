@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tushar-upadhya/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tushar-upadhya/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tushar-upadhya/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/tushar-upadhya/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushar-upadhya/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tushar-upadhya/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tushar-upadhya/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tushar-upadhya/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tushar-upadhya/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tushar-upadhya/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tushar-upadhya/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3447-clear-digits](https://github.com/tushar-upadhya/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tushar-upadhya/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushar-upadhya/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/tushar-upadhya/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tushar-upadhya/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tushar-upadhya/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/tushar-upadhya/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tushar-upadhya/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/tushar-upadhya/leetcode/tree/master/2509-minimize-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tushar-upadhya/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tushar-upadhya/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Tree
 |  |
