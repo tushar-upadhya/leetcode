@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tushar-upadhya/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tushar-upadhya/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/tushar-upadhya/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tushar-upadhya/leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/tushar-upadhya/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/tushar-upadhya/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/tushar-upadhya/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/tushar-upadhya/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/tushar-upadhya/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tushar-upadhya/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/tushar-upadhya/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/tushar-upadhya/leetcode/tree/master/0295-find-median-from-data-stream) |
