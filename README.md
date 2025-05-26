@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/tushar-upadhya/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/tushar-upadhya/leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/tushar-upadhya/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tushar-upadhya/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/tushar-upadhya/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/tushar-upadhya/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/tushar-upadhya/leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/tushar-upadhya/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1558-course-schedule-iv](https://github.com/tushar-upadhya/leetcode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tushar-upadhya/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/tushar-upadhya/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/tushar-upadhya/leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/tushar-upadhya/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tushar-upadhya/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/tushar-upadhya/leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/tushar-upadhya/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/tushar-upadhya/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/tushar-upadhya/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tushar-upadhya/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
