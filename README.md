@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tushar-upadhya/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tushar-upadhya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tushar-upadhya/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/tushar-upadhya/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/tushar-upadhya/leetcode/tree/master/0043-multiply-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tushar-upadhya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tushar-upadhya/leetcode/tree/master/0029-divide-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tushar-upadhya/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/tushar-upadhya/leetcode/tree/master/2478-longest-nice-subarray) |
