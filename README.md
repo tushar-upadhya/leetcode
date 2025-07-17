@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tushar-upadhya/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/tushar-upadhya/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tushar-upadhya/leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/tushar-upadhya/leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/tushar-upadhya/leetcode/tree/master/0242-valid-anagram) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tushar-upadhya/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/tushar-upadhya/leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/tushar-upadhya/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0416-partition-equal-subset-sum) |
