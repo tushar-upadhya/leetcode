@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/tushar-upadhya/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushar-upadhya/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tushar-upadhya/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tushar-upadhya/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/tushar-upadhya/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/tushar-upadhya/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tushar-upadhya/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tushar-upadhya/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/tushar-upadhya/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tushar-upadhya/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/tushar-upadhya/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushar-upadhya/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/tushar-upadhya/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2562-count-ways-to-build-good-strings](https://github.com/tushar-upadhya/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tushar-upadhya/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tushar-upadhya/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
