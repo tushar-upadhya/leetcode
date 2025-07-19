@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tushar-upadhya/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tushar-upadhya/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/tushar-upadhya/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tushar-upadhya/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/tushar-upadhya/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/tushar-upadhya/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tushar-upadhya/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/tushar-upadhya/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/tushar-upadhya/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tushar-upadhya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/tushar-upadhya/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/tushar-upadhya/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/tushar-upadhya/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tushar-upadhya/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tushar-upadhya/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tushar-upadhya/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tushar-upadhya/leetcode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tushar-upadhya/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Simulation
 |  |
 | ------- |
