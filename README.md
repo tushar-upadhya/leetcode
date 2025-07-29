@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/tushar-upadhya/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/tushar-upadhya/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/tushar-upadhya/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tushar-upadhya/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tushar-upadhya/leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/tushar-upadhya/leetcode/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tushar-upadhya/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tushar-upadhya/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
