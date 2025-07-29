@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/tushar-upadhya/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tushar-upadhya/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/tushar-upadhya/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/tushar-upadhya/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushar-upadhya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tushar-upadhya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/tushar-upadhya/leetcode/tree/master/0322-coin-change) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tushar-upadhya/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/tushar-upadhya/leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/tushar-upadhya/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushar-upadhya/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/tushar-upadhya/leetcode/tree/master/0868-push-dominoes) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tushar-upadhya/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/tushar-upadhya/leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/tushar-upadhya/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/tushar-upadhya/leetcode/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tushar-upadhya/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tushar-upadhya/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
