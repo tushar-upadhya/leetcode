@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tushar-upadhya/leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/tushar-upadhya/leetcode/tree/master/1160-letter-tile-possibilities) |
