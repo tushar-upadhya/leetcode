@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tushar-upadhya/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tushar-upadhya/leetcode/tree/master/0100-same-tree) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tushar-upadhya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tushar-upadhya/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/tushar-upadhya/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushar-upadhya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tushar-upadhya/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tushar-upadhya/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/tushar-upadhya/leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/tushar-upadhya/leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/tushar-upadhya/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tushar-upadhya/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tushar-upadhya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tushar-upadhya/leetcode/tree/master/0165-compare-version-numbers) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tushar-upadhya/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/tushar-upadhya/leetcode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/tushar-upadhya/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/tushar-upadhya/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tushar-upadhya/leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/tushar-upadhya/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/tushar-upadhya/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/tushar-upadhya/leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/tushar-upadhya/leetcode/tree/master/1160-letter-tile-possibilities) |
