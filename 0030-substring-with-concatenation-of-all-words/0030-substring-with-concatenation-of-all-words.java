@@ -1,37 +1,43 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-        int n = words.length;
-        HashMap<String, Integer> map = new HashMap<>();
-        List<Integer> result = new ArrayList<>();
+        int n = s.length();
+        int num = words.length;
+        int length = words[0].length();
         
-        for (int i = 0; i < n; i++) {
-            map.put(words[i],map.getOrDefault(words[i], 0) + 1);
-        }
+        Map<String, Integer> counts = new HashMap<>();
         
-        int k = words[0].length() * words.length;
-        int z = words[0].length();
-        int i = 0, j = 0;
+        for (String word : words) counts.put(word, counts.getOrDefault(word, 0) + 1);
         
-        while (j < s.length()) {
-            if (j - i + 1 == k) {
+        List<Integer> indexes = new ArrayList<>();
+        
+        for (int k = 0; k < length; k++) {
+            int left = k;
+            int right = k;
+            int count = 0;
+            
+            Map<String, Integer> seen = new HashMap<>();
+            
+            while (right + length <= n) {
+                String word = s.substring(right, right + length);
+                right += length;
                 
-                String sub = s.substring(i, j + 1);
-                HashMap<String, Integer> map2 = new HashMap<>();
-                int p = 0;
+                if (counts.containsKey(word)) {
+                    seen.put(word, seen.getOrDefault(word, 0) + 1);
+                    count++;
                 
-                while (p < sub.length()) {
-                    String temp = sub.substring(p, p + z);
-                    map2.put(temp,map2.getOrDefault(temp, 0) + 1);
-                    p += z;
+                    while (seen.get(word) > counts.get(word)) {
+                        String leftWord = s.substring(left, left + length);
+                        seen.put(leftWord, seen.get(leftWord) - 1);
+                        left += length;
+                        count--;
+                    } if (count == num) indexes.add(left);
+                } else {
+                    seen.clear();
+                    count = 0;
+                    left = right;
                 }
-                
-                if (map.equals(map2)){
-                    result.add(i);
-                }
-                i++;
             }
-            j++;
         }
-        return result;
+        return indexes;
     }
 }
