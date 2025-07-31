@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tushar-upadhya/leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tushar-upadhya/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tushar-upadhya/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/tushar-upadhya/leetcode/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/tushar-upadhya/leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tushar-upadhya/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/tushar-upadhya/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/tushar-upadhya/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tushar-upadhya/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/tushar-upadhya/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/tushar-upadhya/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/tushar-upadhya/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/tushar-upadhya/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/tushar-upadhya/leetcode/tree/master/0136-single-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tushar-upadhya/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tushar-upadhya/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tushar-upadhya/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tushar-upadhya/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
